@@ -1,6 +1,7 @@
 # HTML CODE
 <br>
-## this code is to explain simple type of tags like :
+## this code is to explain simple type of tags like 
+<br>
 - input
 - button
 - span
